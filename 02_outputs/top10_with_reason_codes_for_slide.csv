@@ -1,0 +1,11 @@
+cb_proba,bought,top5_reason_codes
+0.9305605326461386,0,capital_gain ↑ (+2.00); marital_status ↑ (+0.64); occupation_level ↑ (+0.55); town ↑ (+0.53); education_num ↑ (+0.26)
+0.9289650126177762,0,capital_gain ↑ (+1.98); marital_status ↑ (+0.64); town ↑ (+0.55); occupation_level ↑ (+0.53); education_num ↑ (+0.28)
+0.9270946788829094,0,capital_gain ↑ (+1.98); marital_status ↑ (+0.65); town ↑ (+0.53); occupation_level ↑ (+0.52); education_num ↑ (+0.28)
+0.9260270974239563,0,capital_gain ↑ (+2.04); marital_status ↑ (+0.65); town ↑ (+0.56); education_num ↑ (+0.51); occupation_level ↑ (+0.50)
+0.925456926315461,0,capital_gain ↑ (+1.96); marital_status ↑ (+0.69); occupation_level ↑ (+0.57); town ↑ (+0.55); education_num ↑ (+0.48)
+0.9245969654485121,0,capital_gain ↑ (+1.99); marital_status ↑ (+0.64); occupation_level ↑ (+0.52); town ↑ (+0.50); education_num ↑ (+0.40)
+0.923743886794747,0,capital_gain ↑ (+1.90); marital_status ↑ (+0.64); town ↑ (+0.54); occupation_level ↑ (+0.51); education_num ↑ (+0.37)
+0.9226113250699334,0,capital_gain ↑ (+1.98); marital_status ↑ (+0.64); education_num ↑ (+0.55); occupation_level ↑ (+0.53); town ↑ (+0.52)
+0.9223527539756838,0,capital_gain ↑ (+1.86); occupation_level ↑ (+0.70); marital_status ↑ (+0.61); town ↑ (+0.40); view_fb ↑ (+0.20)
+0.9212292468072261,0,capital_gain ↑ (+1.99); marital_status ↑ (+0.75); town ↑ (+0.53); education_num ↑ (+0.40); occupation_level ↑ (+0.32)
